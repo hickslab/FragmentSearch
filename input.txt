@@ -1,0 +1,4 @@
+Database = "C:\path\to\database\uniprot_sprot.fasta"
+mass_tolerance = 0.02
+target_masses = 101.05 408.15
+gluc_digest = true
